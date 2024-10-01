@@ -1,0 +1,3 @@
+[submodule "local/debugbar"]
+	path = local/debugbar
+	url = git@github.com:moodlelib/local_debugbar.git
