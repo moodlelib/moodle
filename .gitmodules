@@ -1,3 +1,9 @@
 [submodule "local/debugbar"]
 	path = local/debugbar
 	url = git@github.com:moodlelib/local_debugbar.git
+[submodule "theme/heli"]
+	path = theme/heli
+	url = git@github.com:moodlelib/theme_heli.git
+[submodule "local/illuminate"]
+	path = local/illuminate
+	url = git@github.com:moodlelib/illuminate.git
